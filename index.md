@@ -6,10 +6,10 @@ description: "Just the Docs is a responsive Jekyll theme with built-in search th
 permalink: /
 ---
 
-# Applying Open Source Code Across Disciplines 
+# Building Cross-Disciplinary Applications 
 {: .fs-9 }
 
-Documenting projects, problems, processes, and best practices involving all things open-source for cross-disciplinary applications.
+Documenting projects, problems, processes, and best practices for cross-disciplinary applications built entirely on open-source code and privacy focused tools.
 {: .fs-6 .fw-300 }
 
 [Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/pmarsceill/just-the-docs){: .btn .fs-5 .mb-4 .mb-md-0 }
