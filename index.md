@@ -14,6 +14,7 @@ Documenting projects, problems, processes, and best practices for emerging tech 
 
 [Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/pmarsceill/just-the-docs){: .btn .fs-5 .mb-4 .mb-md-0 }
 
+![Emerging Tech](emerging-tech.png)
 ---
 
 ## Getting started
