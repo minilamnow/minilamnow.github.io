@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Mini Code
-description: A Personal Blog by Mini Lam for documentation
+description: Making Emerging Tech Accessible Through Open Source Code  
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://minilamnow.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -64,8 +64,8 @@ heading_anchors: true
 
 # Aux links for the upper right navigation
 aux_links:
-  "Just the Docs on GitHub":
-    - "//github.com/pmarsceill/just-the-docs"
+  "Mini Lam on GitHub":
+    - "//github.com/minilamnow/minilamnow.github.io"
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: false
@@ -81,7 +81,7 @@ nav_sort: case_sensitive # Capital letters sorted before lowercase
 back_to_top: true
 back_to_top_text: "Back to top"
 
-footer_content: "Copyright &copy; 2017-2020 Patrick Marsceill. Distributed by an <a href=\"https://github.com/pmarsceill/just-the-docs/tree/master/LICENSE.txt\">MIT license.</a>"
+footer_content: "Copyright &copy; 2021 Mini Lam."
 
 # Footer last edited timestamp
 last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
