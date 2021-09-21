@@ -13,8 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Mini Code
-description: Making Emerging Tech Accessible Through Open Source Code  
+title: Relay Impact
+description: Making Emerging Tech Accessible  
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://minilamnow.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
@@ -64,8 +64,8 @@ heading_anchors: true
 
 # Aux links for the upper right navigation
 aux_links:
-  "Mini Lam on GitHub":
-    - "//github.com/minilamnow/minilamnow.github.io"
+  "View Homepage":
+    - "//relayimpact.com"
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: false
